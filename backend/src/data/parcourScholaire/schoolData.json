@@ -1,0 +1,268 @@
+[
+  {
+    "title": "جامعة محمد الخامس",
+    "website": "www.um5.ac.ma",
+    "cities": ["الرباط"],
+    "schoolType": "public",
+    "establishmentType": "university",
+    "fields": ["العلوم", "الأدب", "القانون", "الاقتصاد"],
+    "diplomaLevels": ["bachelor", "MASTER", "phd", "deug"],
+    "requirements": [
+      {
+        "filiere": "العلوم القانونية",
+        "branch": "القانون العام"
+      },
+      {
+        "filiere": "الاقتصاد",
+        "branch": "الاقتصاد التطبيقي"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences humaines", "Sciences économiques"],
+    "requiredHighSchoolBranche": ["أي تخصص"],
+    "admission": {
+      "requiresExam": false,
+      "minGrade": 10,
+      "processDescription": "القبول يعتمد على معدل البكالوريا"
+    },
+    "concours": [],
+    "isBoardingAvailable": false,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": true
+  },
+  {
+    "title": "المدرسة الحسنية للأشغال العمومية",
+    "website": "www.ehtp.ac.ma",
+    "cities": ["الدار البيضاء"],
+    "schoolType": "public",
+    "establishmentType": "school",
+    "fields": ["الهندسة المدنية", "الهندسة المعمارية"],
+    "diplomaLevels": ["MASTER", "phd"],
+    "requirements": [
+      {
+        "filiere": "الهندسة المدنية",
+        "branch": "البناء والأشغال العمومية"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences mathématiques"],
+    "requiredHighSchoolBranche": ["Science Math A", "Physiques"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 15,
+      "processDescription": "امتحان وطني بعد سنتين من التحضيري"
+    },
+    "concours": [
+      {
+        "name": "CNC",
+        "branches": ["Science Math A", "Physiques", "SVT"]
+      }
+    ],
+    "isBoardingAvailable": true,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": true
+  },
+  {
+    "title": "المعهد العالي للتجارة وإدارة المقاولات",
+    "website": "www.hec.ac.ma",
+    "cities": ["الدار البيضاء"],
+    "schoolType": "private",
+    "establishmentType": "institute",
+    "fields": ["إدارة الأعمال", "التجارة الدولية"],
+    "diplomaLevels": ["bachelor", "MASTER"],
+    "requirements": [
+      {
+        "filiere": "إدارة الأعمال",
+        "branch": "التسويق"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences économiques", "Sciences humaines"],
+    "requiredHighSchoolBranche": ["أي تخصص"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 12,
+      "processDescription": "امتحان كتابي ومقابلة شفوية"
+    },
+    "concours": [],
+    "isBoardingAvailable": false,
+    "isScholarshipAvailable": false,
+    "internationalPrograms": true
+  },
+  {
+    "title": "ثانوية ليوطي التحضيرية",
+    "cities": ["الدار البيضاء"],
+    "schoolType": "public",
+    "establishmentType": "cpge",
+    "fields": ["الرياضيات", "الفيزياء", "علوم الهندسة"],
+    "diplomaLevels": ["ts"],
+    "requirements": [
+      {
+        "filiere": "العلوم الرياضية",
+        "branch": "Mathématiques Supérieures"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences mathématiques"],
+    "requiredHighSchoolBranche": ["Science Math A", "Physiques"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 16,
+      "processDescription": "امتحان انتقائي للمتفوقين في البكالوريا"
+    },
+    "concours": [
+      {
+        "name": "CPGE",
+        "branches": ["MP", "PSI", "TSI"]
+      }
+    ],
+    "isBoardingAvailable": true,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": false
+  },
+  {
+    "title": "كلية الطب والصيدلة",
+    "website": "www.medecine.um6ss.ma",
+    "cities": ["الدار البيضاء", "مراكش"],
+    "schoolType": "public",
+    "establishmentType": "faculty",
+    "fields": ["الطب", "الصيدلة", "طب الأسنان"],
+    "diplomaLevels": ["MASTER", "phd"],
+    "requirements": [
+      {
+        "filiere": "الطب",
+        "branch": "الطب العام"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences expérimentales"],
+    "requiredHighSchoolBranche": ["Sciences Physiques", "SVT"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 14,
+      "processDescription": "امتحان وطني بعد السنة الأولى المشتركة للعلوم الصحية"
+    },
+    "concours": [
+      {
+        "name": "الطب",
+        "branches": ["علوم الحياة والأرض", "العلوم الفيزيائية"]
+      }
+    ],
+    "isBoardingAvailable": false,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": false
+  },
+  {
+    "title": "جامعة القاضي عياض",
+    "website": "www.uca.ma",
+    "cities": ["مراكش"],
+    "schoolType": "public",
+    "establishmentType": "university",
+    "fields": ["العلوم", "الآداب", "الطب", "القانون"],
+    "diplomaLevels": ["bachelor", "MASTER", "phd", "deug"],
+    "requirements": [
+      {
+        "filiere": "العلوم",
+        "branch": "الفيزياء"
+      },
+      {
+        "filiere": "الآداب",
+        "branch": "التاريخ"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences mathématiques", "Sciences expérimentales", "Littérature"],
+    "requiredHighSchoolBranche": ["أي تخصص"],
+    "admission": {
+      "requiresExam": false,
+      "minGrade": 10,
+      "processDescription": "القبول يعتمد على معدل البكالوريا"
+    },
+    "concours": [],
+    "isBoardingAvailable": false,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": true
+  },
+  {
+    "title": "المدرسة الوطنية للصناعات المعدنية",
+    "website": "www.enim.ac.ma",
+    "cities": ["الرباط"],
+    "schoolType": "public",
+    "establishmentType": "school",
+    "fields": ["الهندسة المعدنية", "الهندسة الميكانيكية"],
+    "diplomaLevels": ["MASTER", "phd"],
+    "requirements": [
+      {
+        "filiere": "الهندسة المعدنية",
+        "branch": "المعادن والمواد"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences mathématiques"],
+    "requiredHighSchoolBranche": ["Science Math A", "Physiques"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 14,
+      "processDescription": "مسابقة وطنية بعد سنتين من التحضيري"
+    },
+    "concours": [
+      {
+        "name": "ENIM",
+        "branches": ["MP", "PSI"]
+      }
+    ],
+    "isBoardingAvailable": true,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": false
+  },
+  {
+    "title": "المعهد العالي للسياحة",
+    "website": "www.ist.ac.ma",
+    "cities": ["طنجة", "مراكش"],
+    "schoolType": "private",
+    "establishmentType": "institute",
+    "fields": ["السياحة", "الفندقة"],
+    "diplomaLevels": ["bachelor", "MASTER"],
+    "requirements": [
+      {
+        "filiere": "السياحة",
+        "branch": "الإدارة السياحية"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Littérature", "Sciences économiques"],
+    "requiredHighSchoolBranche": ["أي تخصص"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 11,
+      "processDescription": "امتحان كتابي ومقابلة شفوية"
+    },
+    "concours": [],
+    "isBoardingAvailable": true,
+    "isScholarshipAvailable": false,
+    "internationalPrograms": true
+  },
+  {
+    "title": "المدرسة الوطنية للفلاحة",
+    "website": "www.ena.ac.ma",
+    "cities": ["مكناس"],
+    "schoolType": "public",
+    "establishmentType": "school",
+    "fields": ["الفلاحة", "الهندسة الزراعية"],
+    "diplomaLevels": ["MASTER", "phd"],
+    "requirements": [
+      {
+        "filiere": "الهندسة الزراعية",
+        "branch": "الإنتاج النباتي"
+      }
+    ],
+    "requiredHighSchoolFiliere": ["Sciences expérimentales"],
+    "requiredHighSchoolBranche": ["SVT", "Sciences Agronomiques"],
+    "admission": {
+      "requiresExam": true,
+      "minGrade": 12,
+      "processDescription": "امتحان وطني بعد البكالوريا"
+    },
+    "concours": [
+      {
+        "name": "ENA",
+        "branches": ["Sciences Agronomiques"]
+      }
+    ],
+    "isBoardingAvailable": true,
+    "isScholarshipAvailable": true,
+    "internationalPrograms": false
+  }
+]

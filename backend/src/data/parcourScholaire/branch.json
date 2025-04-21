@@ -1,0 +1,30 @@
+[
+    {
+      "title": "القانون العام",
+      "filiere": "literall"
+    },
+    {
+      "title": "الاقتصاد التطبيقي",
+      "filiere": "economie"
+    },
+    {
+      "title": "البناء والأشغال العمومية",
+      "filiere": "technique"
+    },
+    {
+      "title": "التسويق",
+      "filiere": "economie"
+    },
+    {
+      "title": "Mathématiques Supérieures",
+      "filiere": "math"
+    },
+    {
+      "title": "الطب العام",
+      "filiere": "svt"
+    },
+    {
+      "title": "الإنتاج النباتي",
+      "filiere": "agriculture"
+    }
+]

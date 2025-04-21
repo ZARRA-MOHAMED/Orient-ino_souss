@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Q1",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يضايقني أن يفرق الأستاذ بيني وبين زملائي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q2",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "اشعر بالضيق عند مدح الاستاذ للتلاميذ الآخرين",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q3",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أشعر بالضيق عند قلة اهتمام الاستاذ بي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q4",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "اخاف ان يعاقبني الاستاذ اثناء الدرس",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q5",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أحب توجيه الأسئلة للأستاذ",
+    "options": [
+      { "value": 3, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 1, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q6",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أعاني من صعوبة فهم بعض ما يشرحه الاستاذ لي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q7",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أرتبك عندما يطلب مني الاستاذ المشاركة في الدرس فجأة",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q8",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يضايقني ارسالي الى المدير عندما أقوم بمخالفة",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q9",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أخاف من مدير الثانوية",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q10",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يضايقني أن يفرق المدير بيني وبين زملائي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q11",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "تزعجني كثرة الواجبات المنزلية",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q12",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أشعر بالضيق عندما أقصر في تحضير دروسي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q13",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "تزعجني كثرة الامتحانات",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q14",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أخاف من عدم الحصول على معدلات عالية",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q15",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يفرحني منافسة الآخرين لي في الحصول على معدلات عالية",
+    "options": [
+      { "value": 3, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 1, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q16",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أتضايق من تعليقات زملائي على مستواي الدراسي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q17",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "اشعر بالخجل عندما أخطأ امام التلاميذ في القسم",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q18",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أشعر بالملل أثناء الدرس",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q19",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أشعر بالضيق من طول اليوم الدراسي",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q20",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يضايقني وجود تلاميذ كثيري الحركة داخل القسم",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q21",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "تضايقني الضوضاء خارج جدران الثانوية",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q22",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يضايقني رفض التلاميذ مشاركتهم اللعب خلال حصة الرياضة",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q23",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أخاف من تهديد التلاميذ المشاغبين في الثانوية",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q24",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "أشعر بالراحة من قلة ممارسة الأنشطة الرياضية",
+    "options": [
+      { "value": 3, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 1, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q25",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "تضايقني قلة الوسائل التعليمية (السمعية، البصرية)",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q26",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "تزعجني عدم توفر وسائل التكييف المناسبة داخل القسم",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q27",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "يزعجني عدم وجود منهج دراسي خاص بالتلاميذ المتميزين",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  },
+  {
+    "name": "Q28",
+    "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+    "question": "اشعر بالضيق من قلة الانشطة الموازية (العروض الفنية، الرحلات)",
+    "options": [
+      { "value": 1, "text": "لا أعاني من مشكلة" },
+      { "value": 2, "text": "أعاني بدرجة بسيطة" },
+      { "value": 3, "text": "أعاني بدرجة شديدة" }
+    ]
+  }
+]

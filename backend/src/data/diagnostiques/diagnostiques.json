@@ -1,0 +1,47 @@
+[
+    {
+        "diagnostique": "RAISEC",
+        "description": "Un test d'intérêts professionnels basé sur six types de personnalité : Réaliste, Investigateur, Artistique, Social, Entreprenant et Conventionnel.",
+        "objectif": "Aider les individus à identifier des carrières en adéquation avec leurs intérêts et leur personnalité."
+    },
+    {
+        "diagnostique": "OCEAN",
+        "description": "Un test de personnalité mesurant cinq traits : ouverture, conscience, extraversion, agréabilité et neuroticisme.",
+        "objectif": "Fournir une vision approfondie de la personnalité et des tendances comportementales."
+    },
+    {
+        "diagnostique": "ANXIÉTÉ_SINCÈRE",
+        "description": "Évaluation visant à identifier les symptômes authentiques d'anxiété.",
+        "objectif": "Évaluer et comprendre le niveau réel d'anxiété ressenti par une personne."
+    },
+    {
+        "diagnostique": "ANXIÉTÉ_AUX_EXAMENS",
+        "description": "Mesure l'anxiété spécifiquement liée aux examens ou évaluations scolaires.",
+        "objectif": "Aider les étudiants à gérer et réduire leur anxiété face aux examens."
+    },
+    {
+        "diagnostique": "ANXIÉTÉ_FACE_AU_FUTUR",
+        "description": "Examine les inquiétudes et incertitudes liées à l'avenir personnel ou professionnel.",
+        "objectif": "Identifier les sources de stress lié à l'avenir et proposer des pistes pour mieux les gérer."
+    },
+    {
+        "diagnostique": "DÉPRESSION",
+        "description": "Outil de dépistage des symptômes et du niveau de gravité de la dépression.",
+        "objectif": "Permettre une détection précoce et orienter vers un soutien adapté."
+    },
+    {
+        "diagnostique": "ESTIME_DE_SOI",
+        "description": "Évalue le niveau de confiance et de valorisation personnelle d'un individu.",
+        "objectif": "Encourager le développement personnel en identifiant les faiblesses en estime de soi."
+    },
+    {
+        "diagnostique": "DÉPENDANCE_À_INTERNET",
+        "description": "Évalue la dépendance d'un individu à l'utilisation d'Internet.",
+        "objectif": "Favoriser des habitudes numériques plus saines et réduire l'usage compulsif."
+    },
+    {
+        "diagnostique": "PRESSION_PSYCHOLOGIQUE",
+        "description": "Évalue le stress mental causé par différents facteurs internes et externes.",
+        "objectif": "Aider à mieux gérer la pression psychologique et améliorer le bien-être mental."
+    }
+]

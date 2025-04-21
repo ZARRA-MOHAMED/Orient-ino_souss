@@ -1,0 +1,28 @@
+{
+  "name": "orient-ino_souss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZARRA-MOHAMED/Orient-ino_souss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ZARRA-MOHAMED/Orient-ino_souss/issues"
+  },
+  "homepage": "https://github.com/ZARRA-MOHAMED/Orient-ino_souss#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^6.3.2"
+  }
+}
